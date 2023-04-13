@@ -1,0 +1,10 @@
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\bin\Debug\netstandard2.1\OpenSDK.ChatGPT.deps.json
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\bin\Debug\netstandard2.1\OpenSDK.ChatGPT.dll
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\bin\Debug\netstandard2.1\OpenSDK.ChatGPT.pdb
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.csproj.AssemblyReference.cache
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.AssemblyInfoInputs.cache
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.AssemblyInfo.cs
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.csproj.CoreCompileInputs.cache
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.dll
+D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\obj\Debug\netstandard2.1\OpenSDK.ChatGPT.pdb

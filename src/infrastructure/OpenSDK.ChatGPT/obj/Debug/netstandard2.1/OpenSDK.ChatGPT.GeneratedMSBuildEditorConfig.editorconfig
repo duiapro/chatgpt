@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OpenSDK.ChatGPT
+build_property.ProjectDir = D:\chatgpt\src\infrastructure\OpenSDK.ChatGPT\
